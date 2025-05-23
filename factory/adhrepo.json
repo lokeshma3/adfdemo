@@ -1,0 +1,9 @@
+{
+	"name": "adhrepo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6dae8946-023a-41df-a1e0-7b7a35934ede",
+		"tenantId": "7afb9e22-9308-4186-8e29-ea231ff3baf7"
+	}
+}
